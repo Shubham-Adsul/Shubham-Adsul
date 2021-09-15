@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Shubham-Adsul
-- 👀 I’m interested in ML,DL
-- 🌱 I’m currently learning Computer vision
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shubhamadsul2222@gmail.com
 
 <!---
